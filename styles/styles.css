@@ -211,7 +211,7 @@ img {
 .contact-details {
     font-size: 40px;
     text-shadow: 2px 2px 1px #585757;
-    transition: transform 0.3s ease-out;
+    transition: transform 0.1s ease-out;
 }
 
 .contact-details:hover {
