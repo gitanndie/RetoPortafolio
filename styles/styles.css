@@ -176,7 +176,7 @@ img {
 
 .project-title:hover {
     transform: translateY(8px);
-    color: yellow;
+    color: fuchsia;
 }
 
 .contact-section {
